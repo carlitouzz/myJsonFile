@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "type": "Animal",
+    "clue": "It purrs!"
+  },
+  {
+    "id": 2,
+    "type": "Fruit",
+    "clue": "It's also a brand"
+  },
+  {
+    "id": 3,
+    "type": "Country",
+    "clue": "They eat a lot of rice!"
+  }
+]

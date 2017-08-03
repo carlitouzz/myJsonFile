@@ -1,0 +1,13 @@
+﻿<h3>Let's Play!</h3>
+<div ng-controller="myCtrl1">
+    <h6>(Clues for Riddles)</h6>
+    <ul ng-init="getUsers()">
+        <li ng-repeat="user in users">
+            <p>
+                <h6><b>Type: </b>{{user.type}}<br /></h6>
+                <h6><b>Clue: </b>{{user.clue}}<br /></h6>
+            </p>
+        </li>
+    </ul>
+    
+</div>
